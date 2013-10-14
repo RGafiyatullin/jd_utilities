@@ -1,0 +1,8 @@
+{application, jd_utils, [
+	{description, ""},
+	{vsn, "0.0.1"},
+	{registered, []},
+	{applications, [lager, gproc, jd_pt]},
+	{mod, {jd_utils_app, []}},
+	{env, []}
+]}.

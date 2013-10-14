@@ -1,0 +1,7 @@
+{application, jd_pt, [
+	{description, ""},
+	{vsn, "0.0.1"},
+	{registered, []},
+	{applications, []},
+	{env, []}
+]}.

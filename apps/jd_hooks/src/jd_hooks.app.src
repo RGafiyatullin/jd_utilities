@@ -1,0 +1,9 @@
+{application, jd_hooks,
+ [
+  {description, ""},
+  {vsn, "0.0.1"},
+  {registered, []},
+  {applications, []},
+  {mod, {jd_hooks_app, []} },
+  {env, []}
+ ]}.
